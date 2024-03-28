@@ -1,8 +1,2 @@
-## Table of Contents
-Installation
-Setup
-Running Tests
-Test Cases
-Basic Test Cases
-Test Cases Using Locators
+## This repository contains a Selenium test suite for testing. The tests are written using the Selenium WebDriver framework using Locators.
 
